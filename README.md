@@ -4,4 +4,4 @@ it has 2 types of users: admin and student. If you log in as admin you can add, 
 For my layout I used  scenebuilder. 
 As of now, you can log in using the following credentials: 
 username: 815175 password: 123456 - student 
-username: 12345678 password: qwerty -user
+username: 12345678 password: qwerty -admin
